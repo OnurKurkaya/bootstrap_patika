@@ -1,0 +1,18 @@
+body {
+    background-color: #E9ECEF;
+}
+
+nav ul {
+    list-style: none;
+    color: white;
+}
+
+nav li {
+    display: inline;
+    padding: 6px;
+}
+
+h5 {
+    display: inline;
+    color: red;
+}
